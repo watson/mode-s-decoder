@@ -42,7 +42,7 @@ Initialize a new decoder object.
 
 Arguments:
 
-- `options` - An optional options object.
+- `options` - An optional options object
 
 The available options are:
 
