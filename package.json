@@ -1,0 +1,39 @@
+{
+  "name": "mode-s-decoder",
+  "version": "0.0.0",
+  "description": "A library to decode a binary Mode S message to an easy to use JavaScript object",
+  "main": "index.js",
+  "dependencies": {
+    "mode-s-msglen": "^1.0.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/mode-s-decoder.git"
+  },
+  "keywords": [
+    "modes",
+    "mode-s",
+    "decode",
+    "decoder",
+    "adsb",
+    "ads-b",
+    "radio",
+    "airplane",
+    "airplanes",
+    "1090",
+    "1090mhz"
+  ],
+  "author": "Thomas Watson <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/mode-s-decoder/issues"
+  },
+  "homepage": "https://github.com/watson/mode-s-decoder#readme"
+}
