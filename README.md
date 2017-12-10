@@ -16,11 +16,9 @@ npm install mode-s-decoder --save
 
 ```js
 const Decoder = require('mode-s-decoder')
-
 const decoder = new Decoder()
 
 const data = new Uint8Array([0x8f, 0x46, 0x1f, 0x36, 0x60, 0x4d, 0x74, 0x82, 0xe4, 0x4d, 0x97, 0xbc, 0xd6, 0x4e])
-
 const message = decoder.parse(data)
 
 console.log(message)
