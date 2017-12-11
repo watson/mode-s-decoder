@@ -18,15 +18,21 @@
     "url": "git+https://github.com/watson/mode-s-decoder.git"
   },
   "keywords": [
-    "modes",
-    "mode-s",
     "decode",
     "decoder",
+    "modes",
+    "mode-s",
     "adsb",
     "ads-b",
+    "sdr",
+    "rtlsdr",
+    "rtl-sdr",
+    "librtlsdr",
     "radio",
+    "aircraft",
     "airplane",
     "airplanes",
+    "plane",
     "1090",
     "1090mhz"
   ],
