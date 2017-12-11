@@ -1,6 +1,6 @@
 {
   "name": "mode-s-decoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to decode a binary Mode S message to an easy to use JavaScript object",
   "main": "index.js",
   "dependencies": {
@@ -43,7 +43,7 @@
   },
   "homepage": "https://github.com/watson/mode-s-decoder#readme",
   "coordinates": [
-    55.77763,
-    12.590177
+    55.777706,
+    12.590256
   ]
 }
